@@ -1,3 +1,4 @@
 {
-  "dotnet.defaultSolution": "blazor-wasm-demo.sln"
+  "dotnet.defaultSolution": "blazor-wasm-demo.sln",
+  "cSpell.enableFiletypes": ["aspnetcorerazor"]
 }
